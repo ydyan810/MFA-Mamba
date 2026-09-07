@@ -1,3 +1,3 @@
 # MFA-Mamba
 
-The code will be made publicly available after the paper is accepted. 
+The code and relevant resources will be made publicly available after acceptance.
